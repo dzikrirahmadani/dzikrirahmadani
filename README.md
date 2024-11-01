@@ -22,3 +22,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dzikrirahmadani=anuraghazra&show_icons=true&theme=transparent)
