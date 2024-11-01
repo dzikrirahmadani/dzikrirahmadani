@@ -21,6 +21,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/AngularJs-7952B3?style=for-the-badge&logo=angularjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-Jetpack-Compose-3DDC84?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+    <img src="https://img.shields.io/badge/AngularJs-yellow?style=for-the-badge&logo=angularjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/AndroidJetpackCompose-3DDC84?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
