@@ -22,4 +22,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-![Statistik GitHub Niken](https://github-readme-stats.vercel.app/api?username=nikenira&show_icons=true&theme=radical)
