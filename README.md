@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrirahmadani)
 
-![...](https://media.giphy.com/media/your_gif_url.gif)
+![...]([https://media.giphy.com/media/your_gif_url.gif](https://www.jeep392.com/media/spider-man-gif.17134/full))
