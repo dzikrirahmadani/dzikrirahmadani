@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ![Dzikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzikrirahmadani&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrirahmadani)
+
+![...](https://media.giphy.com/media/your_gif_url.gif)
